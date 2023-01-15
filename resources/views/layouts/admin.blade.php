@@ -31,7 +31,7 @@
             <div class="topbar">
                 <div class="topbar-left">
                     <div class="text-center">
-                        <a  class="logo"><i class="fa fa-leanpub"></i> <span> Student Supervision </span></a>
+                        <a  class="logo"><i class="fa fa-leanpub"></i> <span> Student Management </span></a>
                     </div>
                 </div>
                 <div class="navbar navbar-default" role="navigation">
@@ -133,7 +133,7 @@
                             $users=\App\Models\UserRole::all();
                             @endphp
                             @foreach($users as $user)
-                            <p class="text-muted m-0"><h4 >@if(Auth::user()->role_id==$user->role_id) {{$user->role_name}} @endif</h4></p>
+                            {{-- <p class="text-muted m-0"><h4 >@if(Auth::user()->role_id==$user->role_id) {{$user->role_name}} @endif</h4></p> --}}
                             @endforeach
                         </div>
                     </div>

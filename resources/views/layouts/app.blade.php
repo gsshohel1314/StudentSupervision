@@ -30,7 +30,7 @@
         <nav class="navbar navbar-expand-md navbar-light navbar-laravel bg-secondary">
             <div class="container">
                 <a class="navbar-brand text-white" href="{{ url('/') }}">
-                    {{ config('', 'Student Supervision System') }}
+                    {{ config('', 'Student Management System') }}
                 </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="{{ __('Toggle navigation') }}">
                     <span class="navbar-toggler-icon"></span>

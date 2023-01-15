@@ -39,7 +39,7 @@
             <div class="panel panel-color panel-primary panel-pages">
                 <div class="panel-heading bg-img">
                     <div class="bg-overlay"></div>
-                    <h3 class="text-center m-t-10 text-white"><strong>Student Supervision System</strong> </h3>
+                    <h3 class="text-center m-t-10 text-white"><strong>Student Management System</strong> </h3>
                 </div>
 
 

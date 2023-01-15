@@ -5,7 +5,7 @@
     <div class="row justify-content-center">
         <div class="col-md-8">
             <div class="card">
-                <div class="p-3 mb-2 bg-primary text-white font-weight-bold" class="card-header"><h4>{{ __('Student Supervision System Login') }}</h4></div>
+                <div class="p-3 mb-2 bg-primary text-white font-weight-bold" class="card-header"><h4>{{ __('Login') }}</h4></div>
 
                 <div class="card-body">
                     @if(session()->has('success'))

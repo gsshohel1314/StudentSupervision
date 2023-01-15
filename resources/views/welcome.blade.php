@@ -84,7 +84,7 @@
 
             <div class="content">
                 <div class="title m-b-m">
-                  <h3>Student Supervision</h3>
+                  <h4>Student Management System</h4>
                 </div>
 
                 <!-- <div class="links">
